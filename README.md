@@ -1,5 +1,14 @@
 ### 👋 My name is Zach Rundle! 
-## I'm in my third year at the University of North Alabama, and I'm working on my Bachelors in Cybersecurity/IT!
+### It's my third year at the University of North Alabama, and I'm working on my Bachelors in Cybersecurity/IT!
+
+
+## Socials  
+https://twitter.com/itsz4q <br>
+https://www.youtube.com/channel/UCcg144tUwNm6QzJLYie9a1g <br>
+https://www.instagram.com/zach4q?igsh=dGxrY2UzbmFrdnN3&utm_source=qr
+
+## Skills 
+https://git-scm.com/images/logo@2x.png
 
 
 <!--
