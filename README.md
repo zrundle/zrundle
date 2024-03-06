@@ -1,5 +1,6 @@
 ### 👋 My name is Zach Rundle! 
-FERFNKJN  
+## I'm in my third year at the University of North Alabama, and I'm working on my Bachelors in Cybersecurity/IT!
+
 
 <!--
 **zrundle/zrundle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
