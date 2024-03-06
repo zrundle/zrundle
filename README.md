@@ -1,15 +1,19 @@
 ### 👋 My name is Zach Rundle! 
-### It's my third year at the University of North Alabama, and I'm working on my Bachelors in Cybersecurity/IT!
+### It's my third year at the University of North Alabama, and I'm working on my Bachelors in Cybersecurity/IT! 
 
 
-## Socials  
+## Ways to contact me!
+
+<div>
+  <img src="https://cdn.mos.cms.futurecdn.net/Fsgb8v6Qw8aKEbfpp9YGV5.jpg" alt="Twitter Logo">
+</div>
+
+
 https://twitter.com/itsz4q <br>
 https://www.youtube.com/channel/UCcg144tUwNm6QzJLYie9a1g <br>
-https://www.instagram.com/zach4q?igsh=dGxrY2UzbmFrdnN3&utm_source=qr
+https://www.instagram.com/zach4q?igsh=dGxrY2UzbmFrdnN3&utm_source=qr <br>
 
-## Skills 
-https://git-scm.com/images/logo@2x.png
-
+## Personal Skills 
 
 <!--
 **zrundle/zrundle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
