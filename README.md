@@ -15,6 +15,8 @@ It's my third year at the University of North Alabama, and I'm working on my Bac
 
 
 ## My Skill Sets:  HTML / CSS / JS / Python / Java / C++ / Linux / Command Line 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](https://www.python.org/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>](https://www.w3.org/TR/CSS/#css)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='40'>](https://www.java.com/en/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg' alt='c' height='40'>](https://cplusplus.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg' alt='linux' height='40'>](https://github.com/zrundle)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fedora.svg' alt='fedora' height='40'>](https://github.com/zrundle)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ubuntu.svg' alt='ubuntu' height='40'>](https://github.com/zrundle)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>](https://www.javascript.com/)  
+
 
 
  
