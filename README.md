@@ -4,7 +4,7 @@
 
 It's my third year at the University of North Alabama, and I'm working on my Bachelors Degree in Cybersecurity/IT. I've been interested in this field of work since Middle School and hope to further my skills after graduation!
 
-Skills:  HTML / CSS / JS / Python / Java / C++ / Linux / Command Line /  
+Skills:  HTML / CSS / JS / Python / Java / C++ / Linux / Command Line 
 
 - 🌱 I’m currently learning how to apply my knowledge in a real world setting! 
 - 💬 Ask me about my current interest! 
