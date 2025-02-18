@@ -2,11 +2,10 @@
 #### My Ongoing/Current Projects!
 This is a hub so you can navigate to my other repositories : https://zrundle.github.io/zrundle-echo-lab-/
 
-It's my third year at the University of North Alabama, and I'm working on my Bachelors Degree in Cybersecurity/IT. I've been interested in this field of work since Middle School and hope to further my skills after graduation!
+It's my 4th year at the University of North Alabama, and I'm working on my Bachelors Degree in Cybersecurity/IT. I've been interested in this field of work since Middle School and hope to further my skills after graduation!
 
 - 🌱 I’m currently learning how to apply my knowledge in a real world setting! 
-- 💬 Ask me about my current interest!
-- 😄 Pronouns: He/Him They/Them 
+- 💬 Ask me about my current interest!\ 
 - 😧 Fun Fact! I'm left handed. 
 - 🎵 There isn't a genre of music which I don't find interesting!
 ## These are my socials!
